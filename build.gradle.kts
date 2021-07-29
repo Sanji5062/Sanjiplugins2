@@ -14,7 +14,7 @@ plugins {
     id("com.simonharrer.modernizer") version "2.1.0-1" apply false
 }
 
-project.extra["GithubUrl"] = "https://github.com/rokaHakor/openosrs-plugins"
+project.extra["GithubUrl"] = "https://github.com/Sanji5062/Sanjiplugins"
 apply<BootstrapPlugin>()
 apply<VersionPlugin>()
 
@@ -28,7 +28,7 @@ subprojects {
     group = "com.openosrs.externals"
 
     project.extra["PluginProvider"] = "Satoshi Oda"
-    project.extra["ProjectUrl"] = "https://github.com/rokaHakor/openosrs-plugins"
+    project.extra["ProjectUrl"] = "https://github.com/Sanji5062/Sanjiplugins2"
     project.extra["ProjectSupportUrl"] = "https://discord.gg/qPrKNJvBK5"
     project.extra["PluginLicense"] = "3-Clause BSD License"
 
