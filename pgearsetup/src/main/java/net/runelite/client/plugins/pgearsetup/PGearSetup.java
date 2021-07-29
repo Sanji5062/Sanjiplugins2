@@ -160,7 +160,12 @@ public class PGearSetup extends PScript {
                     new GearSetupData("Setup 6", null, null),
                     new GearSetupData("Setup 7", null, null),
                     new GearSetupData("Setup 8", null, null),
-                    new GearSetupData("Setup 9", null, null)
+                    new GearSetupData("Setup 9", null, null),
+                    new GearSetupData("Setup 10", null, null),
+                    new GearSetupData("Setup 11", null, null),
+                    new GearSetupData("Setup 12", null, null),
+                    new GearSetupData("Setup 13", null, null),
+                    new GearSetupData("Setup 14", null, null)
             ));
         } else {
             try {
@@ -184,7 +189,12 @@ public class PGearSetup extends PScript {
                         new GearSetupData("Setup 6", null, null),
                         new GearSetupData("Setup 7", null, null),
                         new GearSetupData("Setup 8", null, null),
-                        new GearSetupData("Setup 9", null, null)
+                        new GearSetupData("Setup 9", null, null),
+                        new GearSetupData("Setup 10", null, null),
+                        new GearSetupData("Setup 11", null, null),
+                        new GearSetupData("Setup 12", null, null),
+                        new GearSetupData("Setup 13", null, null),
+                        new GearSetupData("Setup 14", null, null)
                 ));
             }
         }
@@ -219,7 +229,12 @@ public class PGearSetup extends PScript {
                     new GearSetupData("Setup 6", null, null),
                     new GearSetupData("Setup 7", null, null),
                     new GearSetupData("Setup 8", null, null),
-                    new GearSetupData("Setup 9", null, null)
+                    new GearSetupData("Setup 9", null, null),
+                    new GearSetupData("Setup 10", null, null),
+                    new GearSetupData("Setup 11", null, null),
+                    new GearSetupData("Setup 12", null, null),
+                    new GearSetupData("Setup 13", null, null),
+                    new GearSetupData("Setup 14", null, null)
             ));
             saveSetups();
             reloadPanel();
